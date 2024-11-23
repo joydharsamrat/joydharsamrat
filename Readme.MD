@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samrat Joydhar</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
+<img src="git-cover.webp"/>
 
 - 🔭 I’m currently working on [Fit Zone](https://fit-zone-three.vercel.app/)
 

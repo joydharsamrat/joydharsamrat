@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samrat Joydhar</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<p align="center">A dedicated web developer based in Mymensingh, Bangladesh. With a strong passion for web development and a thirst for knowledge, I am constantly seeking new opportunities to expand my skills and stay updated with industry trends. As a quick learner, I am able to adapt to new technologies and embrace innovative solutions.</p>
 
 <img src="git-cover.webp" height="300px" width="100%"/>
 
